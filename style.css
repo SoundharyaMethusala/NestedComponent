@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.comment-container{
+    border-left:1px solid black;
+    padding: 1rem;
+    margin-left: 4rem;
+}
+body{
+    background-color: #C73659;
+}
+.reply:hover{
+    cursor:pointer;
+}
+.reply{
+    margin-left: 1rem;
+    font-weight: 600;
+    color: red;
+}
+.container{
+    background-color: #EEEEEE;
+    word-wrap: break-word;
+    border-radius: 2rem;
+    padding: 1rem;
+}
+.comment-reply-container{
+    margin-left:5rem;
+}
